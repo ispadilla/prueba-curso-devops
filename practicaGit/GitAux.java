@@ -7,6 +7,7 @@ public class GitAux {
 		// comentario para pruebas
 		System.out.println("Aquí escribimos todos");
 		System.out.println("alumno2"); //modif por alumno2
+		System.out.println("alumno2 prueba a la inversa");
 	}
 }
 
