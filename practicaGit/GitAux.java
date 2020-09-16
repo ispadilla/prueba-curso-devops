@@ -9,6 +9,7 @@ public class GitAux {
 		System.out.println("alumno2"); //modif por alumno2
 		System.out.println("alumno2 prueba a la inversa");
 		añado para prueba a la inversa alumno1
+		System.out.println("alumno2 prueba a la inversa segundo intento");
 	}
 }
 
