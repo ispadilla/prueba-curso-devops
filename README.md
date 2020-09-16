@@ -1,1 +1,1 @@
-# prueba-curso-devops
+repo para las prácticas del curso
